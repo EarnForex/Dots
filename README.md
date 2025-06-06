@@ -5,6 +5,6 @@ If configured properly, it can give rather accurate trend-changing signals with 
 
 ![Dots indicator attempts to mark the trend and its changes on EUR/USD chart](https://github.com/EarnForex/Dots/blob/main/README_Images/dots-trend-detection-colored-circles.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Dots/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Dots/
 
 Any contributions to the code are welcome!
